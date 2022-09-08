@@ -10,7 +10,7 @@ def main():
     #insert your name in this string below
     print("My name is ")
     #this is printing a string and not an integer. how do we fix it?
-    print("50")
+    print(50)
     #make sure this one prints out the sum
     print("2 + 2")
 
