@@ -5,11 +5,8 @@ def main():
     #What do we put in here to make it work?
     addition()
 
-
-
 def addition(x, y):
     #add x and y together and return them
     return
-
 
 main()
